@@ -12,7 +12,6 @@ The conference version of our work for MICCAI 2020, i.e., [Dual-Teacher](https:/
   <img src="fig/main_frame.png">
 </p>
 
-
 Our paper and code will be release soon.
 
 
