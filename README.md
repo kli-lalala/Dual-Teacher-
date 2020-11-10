@@ -10,7 +10,6 @@ The conference version of our work for MICCAI 2020, i.e., Dual-Teacher, is in an
 <br/>
 <p align="center">
   <img src="fig/main_frame.png">
-  <img src="fig/detailed_dual_trans.png">
 </p>
 
 
