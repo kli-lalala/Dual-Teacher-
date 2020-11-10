@@ -5,7 +5,7 @@ by Kang Li, [Shujun Wang](https://www.cse.cuhk.edu.hk/~sjwang), [Lequan Yu](http
 ## Introduction
 This repository is the Pytorch implementation of Dual-Teacher++, accepted by the Special Issue on Annotation-Efficient Deep Learning for Medical Imaging in IEEE Transactions on Medical Imaging.
 
-The conference version of our work for MICCAI 2020, i.e., [Dual-Teacher](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_41), is in another repository.
+The conference version of our work for MICCAI 2020, i.e., [Dual-Teacher](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_41), is in another repository [here](https://github.com/kli-lalala/Dual-Teacher).
 
 <br/>
 <p align="center">
