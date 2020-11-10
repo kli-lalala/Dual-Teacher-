@@ -7,6 +7,11 @@ This repository is the Pytorch implementation of Dual-Teacher++, accepted by the
 
 The conference version of our work for MICCAI 2020, i.e., Dual-Teacher, is in another repository.
 
+<br/>
+<p align="center">
+  <img src="figure/.png">
+</p>
+
 
 Our paper and code will be release soon.
 
